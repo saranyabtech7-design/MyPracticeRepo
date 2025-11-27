@@ -1,0 +1,55 @@
+Selenium and API Testing AnswerSheet
+Name: Saranya R
+Exp : 8+ Years of Exp in Manual Testing
+
+1. D R
+2. D R
+3. E R
+4. C R
+5. A R
+6. E R
+7. B R
+8. C R
+9. A W
+10.B R
+11.B R 
+12.A R
+13.D R
+14.A R
+15.C R
+16.A R
+17.B R
+18.C R
+19.D R
+20.D R
+21.A R
+22.B W
+23.E W
+24.B R
+25.A R
+26.B R
+27.C R
+28.B R
+29.B R
+30.D R
+31.E R
+32.B R
+33.D R
+34.A R
+35.D R
+36.E R
+37.A R
+38.C W
+39.D R
+40.A R
+41.B W
+42.E R
+43.A R
+44.C R
+45.@Data Provider Annotation. R
+46.D R 
+47.E R
+48.D R
+49.C R
+50.B R
+
